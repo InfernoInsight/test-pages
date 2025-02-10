@@ -1,4 +1,6 @@
 ---
-title: Welcome to my blog
+title: Mind of ...
 ---
+
+This is a test.
 
